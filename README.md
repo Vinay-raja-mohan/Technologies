@@ -1,2 +1,2 @@
-# Projects
+# Technologies
 Author - G.Vinay
