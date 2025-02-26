@@ -1,0 +1,97 @@
+.b0{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border: none;   
+    cursor: pointer;
+    transition: padding 0.5s;
+    padding: 10px 30px 10px;
+
+}
+.b0:hover{
+    opacity: 0.8;   
+    
+}
+
+.b1{
+    background-color: rgb(255, 216, 20);
+    border: none;
+    border-radius: 30px;
+    padding: 9px 20px 9px;
+    cursor: pointer;
+}
+.b1:hover{
+    background-color: rgb(245, 205, 3);
+}
+
+.b2{
+    background-color: rgb(46, 164, 79) ;     
+    color: white;
+    border-radius: 5px;
+    padding: 10px 10px;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.b2:hover{
+    box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.2);
+    
+}
+
+    .b3{
+        background-color: rgb(121, 82, 179) ;     
+        color: white;
+        border-radius: 5px;
+        border: none;
+        font-weight: bold;
+        cursor: pointer;
+        padding: 6px 30px;
+    }
+    .b3:hover{
+        background-color: rgb(105, 71, 156) ;
+    }
+
+
+.b4{
+    background-color: rgb(255, 255, 255) ;     
+    color: rgb(108, 117, 125);
+    border-radius: 5px;
+    padding: 4px 20px ; 
+    border: solid rgb(108, 117, 125);
+    font-weight: bold;
+    
+}
+.b4:hover{
+    background-color:rgb(108, 117, 125);
+    color:rgb(255, 255, 255) ;
+}
+
+.b5{
+    background-color: rgb(10, 102, 194) ;     
+    color: white;
+    border-radius: 30px;
+    font-weight: bold;
+    border: none;
+    padding: 7px 13px;
+
+
+    
+}
+.b5:hover{
+    background-color: rgb(8, 87, 165) ;  
+}
+
+.b6{
+    background-color: rgb(255, 255, 255) ;     
+    color: rgb(10, 102, 194);
+    border-radius: 30px;
+    border: 2px solid rgb(10, 102, 194);
+    font-weight: bold;
+    padding: 5px 18px;
+    
+}
+
+.b6:hover{
+    background-color:rgb(233, 242, 252);
+}
