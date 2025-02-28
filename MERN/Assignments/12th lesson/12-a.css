@@ -1,0 +1,14 @@
+.flexb{
+  display: flex;
+
+}
+
+.div1{
+  width: 200px;
+  background-color: lightblue;
+}
+
+.div2{
+  width: 75px;
+  background-color: pink;
+}
