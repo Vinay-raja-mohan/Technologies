@@ -1,0 +1,12 @@
+.text{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    color: white;
+    background-color: black;
+}
+
+body{
+    height: 3000px;
+    
+}
