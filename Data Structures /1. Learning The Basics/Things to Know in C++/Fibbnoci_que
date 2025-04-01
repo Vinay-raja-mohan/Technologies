@@ -10,7 +10,7 @@ Provided 'n' you have to find out the n-th Fibonacci Number. Handle edges cases 
 "Indexing is start from 1"
 
 
-Example :
+Example:
 Input: 6
 
 Output: 8
