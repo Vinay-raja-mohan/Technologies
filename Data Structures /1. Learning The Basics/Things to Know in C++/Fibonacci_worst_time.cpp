@@ -17,7 +17,5 @@ int main()
                         b = result;
     }
     cout <<  result; 
-        }
-
-   
+        }  
 }
