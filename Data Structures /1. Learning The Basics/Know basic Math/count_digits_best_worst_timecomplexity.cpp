@@ -10,6 +10,5 @@ int evenlyDivides(int n) {
         }
         temp /= 10;  // Remove the last digit
     }
-
     return count; //O(log10 (n))
 }
