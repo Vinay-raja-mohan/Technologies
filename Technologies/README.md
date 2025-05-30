@@ -1,2 +1,0 @@
-# Technologies
-Author - G.Vinay
