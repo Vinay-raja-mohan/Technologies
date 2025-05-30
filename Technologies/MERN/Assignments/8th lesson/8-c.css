@@ -1,0 +1,14 @@
+img{
+    margin-left: 870px;
+    margin-top: 350px;
+    height: 90px;
+}
+input{
+    margin-left: 800px;
+    width: 400px;
+    margin-top: 10px;
+    padding: 13px;
+    border-radius: 30px;
+    border: none;
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.307);
+}

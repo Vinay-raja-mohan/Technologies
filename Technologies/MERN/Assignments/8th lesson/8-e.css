@@ -1,0 +1,43 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+input{
+    padding: 10px;
+    background-color: rgba(128, 128, 128, 0.192);
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+input::placeholder{
+    color: rgb(87, 84, 84);
+}
+
+#b1{
+    width: 210px;
+    margin-top: 20px
+}
+
+.b2{
+    margin-top: 5px;
+    width: 210px;
+}
+
+button{
+border: none;
+background-color: black;
+color: white;
+padding: 8px;
+margin-top: 20px;
+}
+.b3{
+    margin-left: 5px;
+    background-color: rgba(128, 128, 128, 0.192);
+    color: black    
+}
+
+label{
+    font-weight: bold;
+    font-size: x-large;
+}

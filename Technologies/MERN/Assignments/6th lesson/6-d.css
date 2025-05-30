@@ -1,0 +1,13 @@
+    *{
+        text-align: center;
+        font-family: montserrat;
+    }
+
+    .first{
+        font-weight: bold;
+        letter-spacing: 0.1mm;
+    }
+
+    .second{
+        margin-top: 3px;
+    }

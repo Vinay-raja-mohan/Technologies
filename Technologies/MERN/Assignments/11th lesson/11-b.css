@@ -1,0 +1,20 @@
+.cont{
+    display: grid;
+    grid-template-columns: 50px 1fr 75px;
+
+
+
+}
+
+.one{
+    background-color: lightblue;
+
+}
+
+.two{
+    background-color: pink;
+}
+
+.three{
+    background-color: lightblue;
+}

@@ -1,0 +1,25 @@
+.flexb{
+  display: flex;
+  justify-content: space-between;
+  border: 2px solid black;
+}
+.div1{
+  width:75px;
+  background-color: lightblue;
+}
+
+.div2{
+  width:  75px;
+  background-color: pink;
+}
+
+.div3{
+  width: 75px;
+  background-color: lightblue;
+
+}
+
+.div4{
+  width:  75px;
+  background-color: pink;
+}
